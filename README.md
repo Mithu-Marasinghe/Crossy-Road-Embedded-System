@@ -4,9 +4,9 @@
 
 1. This game can be played either singplayer or multiplayer using UCFunKit
 2. First clone the directory using
-    - git clone https://github.com/Mithu-Marasinghe/Crossy-Road-Embedded-System.git
+    - `git clone https://github.com/Mithu-Marasinghe/Crossy-Road-Embedded-System.git`
 3. Then run the command
-    - make program
+    - `make program`
 4. If you are playing multiplayer, the command must be run from both devices
 
 ## How to Play:
